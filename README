@@ -1,0 +1,7 @@
+This is Merb Async Observer -- a Merb plugin that provides deep integration with
+Beanstalk. It is heavily inspired by the Rails Async Observer, which can be found:
+
+For more information, see http://async-observer.rubyforge.org/.
+
+For more information on Beanstalk, see its home page at
+http://xph.us/software/beanstalkd/.
