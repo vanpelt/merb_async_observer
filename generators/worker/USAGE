@@ -1,0 +1,7 @@
+Description:
+    Generates a script for working on async tasks
+
+Examples:
+    ./script/generate worker myrunner
+    will create a runner script:
+     /lib/myrunner.rb
